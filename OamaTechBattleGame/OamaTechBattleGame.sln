@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OamaTechBattleGame", "OamaTechBattleGame.csproj", "{AB9DC0A2-C18C-4C34-9552-9998A2257FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9DC0A2-C18C-4C34-9552-9998A2257FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9DC0A2-C18C-4C34-9552-9998A2257FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9DC0A2-C18C-4C34-9552-9998A2257FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9DC0A2-C18C-4C34-9552-9998A2257FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04CDAF75-0FB2-4634-A02D-0C0882C90068}
+	EndGlobalSection
+EndGlobal
